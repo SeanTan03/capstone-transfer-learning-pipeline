@@ -6,3 +6,5 @@ Consisting of the Jupyter Notebook hosted on Google Colab to conduct the transfe
 
 The Kaggle.com API is used to download the hosted dataset, which requires a kaggle.json token file. This can be generated under a registered account at Settings > Account > API > Create New Token.
 This kaggle.json token file must be copied into the Colab runtime storage before executing the code.
+
+When completed, model training and testing results will be exported as an Excel file in the Colab runtime storage. This can simply be downloaded locally for viewing or use.
